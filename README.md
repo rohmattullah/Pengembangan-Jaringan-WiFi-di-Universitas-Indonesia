@@ -1,9 +1,9 @@
-# Channel Wi-Fi 5 GHz (2-80 MHz) untuk Lingkungan Padat di Universitas)
+# Konfigurasi Channel Wi-Fi 5 GHz (20-80 MHz) untuk Lingkungan Padat (Case: Universitas)
 
-Dokumen ini menyajikan panduan dan rekomendasi untuk merancang penempatan Channel Wi-Fi (RLAN) pada Band 5 GHz dengan Bandwidth 40 MHz untuk lingkungan dengan kepadatan tinggi (Very High Density - VHD), seperti ruang kelas universitas di Indonesia.
+Dokumen ini menyajikan panduan dan rekomendasi untuk merancang penempatan Channel Wi-Fi (RLAN) pada Band 5 GHz dengan Bandwidth 20-80 MHz untuk lingkungan dengan kepadatan tinggi (Very High Density - VHD), seperti ruang kelas, auditorium dan area penunjang akademik lainnya.
 
-**Studi Kasus:**
-* **Lingkungan:** Ruang Kelas Universitas
+**Panduan Penggunaan Dokumen ini**
+* Pelajari terlebih dahulu Regulasi yang diterapkan 
 * **Kepadatan AP:** Tinggi (Jarak antar AP ± 7 meter)
 * **Lebar Channel:** 40 MHz
 * **Tujuan:** Meminimalkan interferensi antar-channel dan *co-channel*.
